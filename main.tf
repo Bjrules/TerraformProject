@@ -1,5 +1,6 @@
 module "VPC" {
   source = "./modules/VPC"
+  name = "VPC-modules"
   region = var.region
   vpc_cidr = var.vpc_cidr
   enable_dns_support = var.enable_dns_support
