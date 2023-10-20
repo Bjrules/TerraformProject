@@ -10,6 +10,9 @@ preferred_number_of_public_subnets = 2
 
 preferred_number_of_private_subnets = 4
 
+enable_classiclink = "false"
+
+#enable_classiclink_dns_support = "false"
 environment = "Dev"
 
 tags = {
@@ -17,6 +20,7 @@ tags = {
   Managed-By      = "Terraform"
   Billing_Account = "78934728914"
 }
+
 account_no = 941866453236
 
 master-username = "admin"
