@@ -14,6 +14,10 @@ variable "enable_dns_hostnames" {
   default = "true"
 }
 
+variable "enable_classiclink" {
+  type = bool
+}
+
 variable "preferred_number_of_public_subnets" {
   type        = number
   description = "Number of public Subnets"
