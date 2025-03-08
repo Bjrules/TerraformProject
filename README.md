@@ -1,4 +1,5 @@
 Project 16 Introduces Terraform as an IaC tool to automate (CREATE, MODIFY & DELETE) infrastructures in AWS
+Other Iac tools are AWS CLOUD FORMATION and OPEN TOFU
 
 1. Create an IAM use in AWS with programatic and Administrative Access
 ![Alt text](Screenshot_20230915_183654.png)
