@@ -44,3 +44,5 @@ Other Iac tools are AWS CLOUD FORMATION and OPEN TOFU
 ![Alt text](Screenshot_20230915_235926.png) 
 ![Alt text](Screenshot_20230915_235932.png) 
 ![Alt text](Screenshot_20230915_235952.png)
+
+10. Created VPc and Subnets(public and private) 
